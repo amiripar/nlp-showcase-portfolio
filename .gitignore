@@ -1,0 +1,29 @@
+# --- Secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Virtual environments ---
+.venv/
+venv/
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Runtime / generated data ---
+cache/
+storage/
+vector_db/
+models/
+
+# --- OS / IDE ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
