@@ -1,3 +1,18 @@
+## Screenshots
+
+### User Interface
+![UI Overview](screenshots/ui_overview.png)
+
+### QA Example
+![Chat Demo](screenshots/QA_overview.png)
+
+### RAG Example
+![Chat Demo](screenshots/RAG_overview.png)
+
+### API Documentation
+![API Docs](screenshots/api_doc_1.png)
+![API Docs](screenshots/api_doc_1.png)
+
 # NLP Showcase Portfolio
 
 This project is a full-stack NLP showcase designed as a professional portfolio.
